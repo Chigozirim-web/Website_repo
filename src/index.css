@@ -1,0 +1,28 @@
+.mytext {
+    font-family: Georgia, serif;
+}
+
+.mycard {
+   margin: auto;
+   margin-top: 6%;
+}
+
+.myback {
+    background-color: rgb(229, 235, 233);
+    color: black;
+    font-family: Georgia, serif;
+    font-size: large;
+}
+
+.myheadings {
+    text-align: center;
+}
+
+.mybutton {
+    text-decoration: none;
+}
+
+.myrow {
+    background-color: black;
+}
+
