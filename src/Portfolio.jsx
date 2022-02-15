@@ -109,7 +109,7 @@ const Portfolio = () => {
                     </p>
                     <p>
                         This website's repo on my github: <a 
-                        href="https://github.com/Chigozirim-web/Chigozirim-web.github.io" 
+                        href="https://github.com/Chigozirim-web/Website_repo" 
                         target={'_blank'} 
                         className="btn btn-dark"
                         >
